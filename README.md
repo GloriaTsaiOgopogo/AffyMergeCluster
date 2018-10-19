@@ -26,7 +26,7 @@ gcc bootdist.c -o bootdist [-lm]
 
 gcc neighbor.c -o neighbor [-lm]
 
-gcc consense.c -o .\consense
+gcc consense.c -o consense
 
 # running
 
