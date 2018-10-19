@@ -1,0 +1,43 @@
+Accession	Platform_design	Type	Title	Taxonomy	Taxid	Data_Rows	Samples_Count	Series_Count	Release_Date
+GPL72	pd.drosgenome1	ExpressionFeatureSet	[DrosGenome1] Affymetrix Drosophila Genome Array	Drosophila melanogaster	7227	14010	1233	111	11-Mar-02
+GPL80	pd.hu6800	ExpressionFeatureSet	[Hu6800] Affymetrix Human Full Length HuGeneFL Array	Homo sapiens	9606	7129	1490	57	11-Mar-02
+GPL81	pd.mg.u74av2	ExpressionFeatureSet	[MG_U74Av2] Affymetrix Murine Genome U74A Version 2 Array	Mus musculus	10090	12488	6840	534	11-Mar-02
+GPL82	pd.mg.u74bv2	ExpressionFeatureSet	[MG_U74Bv2] Affymetrix Murine Genome U74B Version 2 Array	Mus musculus	10090	12477	691	76	11-Mar-02
+GPL83	pd.mg.u74cv2	ExpressionFeatureSet	[MG_U74Cv2] Affymetrix Murine Genome U74 Version 2 Array	Mus musculus	10090	11934	612	65	11-Mar-02
+GPL85	pd.rg.u34a	ExpressionFeatureSet	[RG_U34A] Affymetrix Rat Genome U34 Array	Rattus norvegicus	10116	8799	3449	171	11-Mar-02
+GPL86	pd.rg.u34b	ExpressionFeatureSet	[RG_U34B] Affymetrix Rat Genome U34 Array	Rattus norvegicus	10116	8791	455	10	11-Mar-02
+GPL87	pd.rg.u34c	ExpressionFeatureSet	[RG_U34C] Affymetrix Rat Genome U34 Array	Rattus norvegicus	10116	8789	441	10	11-Mar-02
+GPL91	pd.hg.u95a	ExpressionFeatureSet	[HG_U95A] Affymetrix Human Genome U95A Array	Homo sapiens	9606	12626	1095	59	11-Mar-02
+GPL92	pd.hg.u95b	ExpressionFeatureSet	[HG_U95B] Affymetrix Human Genome U95B Array	Homo sapiens	9606	12620	513	15	11-Mar-02
+GPL93	pd.hg.u95c	ExpressionFeatureSet	[HG_U95C] Affymetrix Human Genome U95C Array	Homo sapiens	9606	12646	505	15	11-Mar-02
+GPL96	pd.hg.u133a	ExpressionFeatureSet	[HG-U133A] Affymetrix Human Genome U133A Array	Homo sapiens	9606	22283	40175	1084	11-Mar-02
+GPL97	pd.hg.u133b	ExpressionFeatureSet	[HG-U133B] Affymetrix Human Genome U133B Array	Homo sapiens	9606	22645	7877	163	11-Mar-02
+GPL200	pd.celegans	ExpressionFeatureSet	[Celegans] Affymetrix C. elegans Genome Array	Caenorhabditis elegans	6239	22625	2290	170	18-Jul-02
+GPL201	pd.hg.focus	ExpressionFeatureSet	[HG-Focus] Affymetrix Human HG-Focus Target Array	Homo sapiens	9606	8793	3860	80	18-Jul-02
+GPL339	pd.moe430a	ExpressionFeatureSet	[MOE430A] Affymetrix Mouse Expression 430A Array	Mus musculus	10090	22690	5193	414	23-Jun-03
+GPL340	pd.moe430b	ExpressionFeatureSet	[MOE430B] Affymetrix Mouse Expression 430B Array	Mus musculus	10090	22575	1170	92	23-Jun-03
+GPL341	pd.rae230a	ExpressionFeatureSet	[RAE230A] Affymetrix Rat Expression 230A Array	Rattus norvegicus	10116	15923	3260	145	23-Jun-03
+GPL570	pd.hg.u133.plus.2	ExpressionFeatureSet	[HG-U133_Plus_2] Affymetrix Human Genome U133 Plus 2.0 Array	Homo sapiens	9606	54675	140284	4935	7-Nov-03
+GPL571	pd.hg.u133a.2	ExpressionFeatureSet	[HG-U133A_2] Affymetrix Human Genome U133A 2.0 Array	Homo sapiens	9606	22277	15346	579	7-Nov-03
+GPL1261	pd.mouse430.2	ExpressionFeatureSet	[Mouse430_2] Affymetrix Mouse Genome 430 2.0 Array	Mus musculus	10090	45101	52771	4064	25-May-04
+GPL1319	pd.zebrafish	ExpressionFeatureSet	[Zebrafish] Affymetrix Zebrafish Genome Array	Danio rerio	7955	15617	1515	129	1-Jul-04
+GPL1322	pd.drosophila.2	ExpressionFeatureSet	[Drosophila_2] Affymetrix Drosophila Genome 2.0 Array	Drosophila melanogaster	7227	18952	4732	329	1-Jul-04
+GPL1352	pd.u133.x3p	ExpressionFeatureSet	[U133_X3P] Affymetrix Human X3P Array	Homo sapiens	9606	61359	745	30	20-Jul-04
+GPL1355	pd.rat230.2	ExpressionFeatureSet	[Rat230_2] Affymetrix Rat Genome 230 2.0 Array	Rattus norvegicus	10116	31099	20142	657	20-Jul-04
+GPL2112	pd.bovine	ExpressionFeatureSet	[Bovine] Affymetrix Bovine Genome Array	Bos taurus	9913	24128	2279	132	24-May-05
+GPL3213	pd.chicken	ExpressionFeatureSet	[Chicken] Affymetrix Chicken Genome Array	Gallus gallus	9031	38535	1549	128	1-Dec-05
+GPL3533	pd.porcine	ExpressionFeatureSet	[Porcine] Affymetrix Porcine Genome Array	Sus scrofa	9823	24123	3408	167	9-Mar-06
+GPL3535	pd.rhesus	ExpressionFeatureSet	[Rhesus] Affymetrix Rhesus Macaque Genome Array	Macaca mulatta	9544	52865	1989	98	9-Mar-06
+GPL3921	pd.ht.hg.u133a	ExpressionFeatureSet	[HT_HG-U133A] Affymetrix HT Human Genome U133A Array	Homo sapiens	9606	22277	6729	78	26-Jun-06
+GPL6244	pd.hugene.1.0.st.v1	GeneFeatureSet	[HuGene-1_0-st] Affymetrix Human Gene 1.0 ST Array [transcript (gene) version]	Homo sapiens	9606	33297	34094	1635	5-Dec-07
+GPL6246	pd.mogene.1.0.st.v1	GeneFeatureSet	[MoGene-1_0-st] Affymetrix Mouse Gene 1.0 ST Array [transcript (gene) version]	Mus musculus	10090	35557	26102	2105	5-Dec-07
+GPL6247	pd.ragene.1.0.st.v1	GeneFeatureSet	[RaGene-1_0-st] Affymetrix Rat Gene 1.0 ST Array [transcript (gene) version]	Rattus norvegicus	10116	29215	2859	172	5-Dec-07
+GPL8300	pd.hg.u95av2	ExpressionFeatureSet	[HG_U95Av2] Affymetrix Human Genome U95 Version 2 Array	Homo sapiens	9606	12625	6423	301	16-Mar-09
+GPL8321	pd.mouse430a.2	ExpressionFeatureSet	[Mouse430A_2] Affymetrix Mouse Genome 430A 2.0 Array	Mus musculus	10090	22690	6510	492	18-Mar-09
+GPL8759	pd.ht.mg.430a	ExpressionFeatureSet	[HT_MG-430A] Affymetrix HT Mouse Genome 430A Array	Mus musculus	10090	22716	3266	28	23-Jun-09
+GPL11532	pd.hugene.1.1.st.v1	GeneFeatureSet	[HuGene-1_1-st] Affymetrix Human Gene 1.1 ST Array [transcript (gene) version]	Homo sapiens	9606	33297	5724	139	18-Jan-11
+GPL11533	pd.mogene.1.1.st.v1	GeneFeatureSet	[MoGene-1_1-st] Affymetrix Mouse Gene 1.1 ST Array [transcript (gene) version]	Mus musculus	10090	35556	3778	148	18-Jan-11
+GPL16570	pd.mogene.2.0.st	GeneFeatureSet	[MoGene-2_0-st] Affymetrix Mouse Gene 2.0 ST Array [transcript (gene) version]	Mus musculus	10090	41801	6282	615	30-Jan-13
+GPL16686	pd.hugene.2.0.st	GeneFeatureSet	[HuGene-2_0-st] Affymetrix Human Gene 2.0 ST Array [transcript (gene) version]	Homo sapiens	9606	53981	5581	408	14-Feb-13
+GPL17400	pd.mogene.2.1.st	GeneFeatureSet	[MoGene-2_1-st] Affymetrix Mouse Gene 2.1 ST Array [transcript (gene) version]	Mus musculus	10090	41345	2032	101	2-Jul-13
+GPL17692	pd.hugene.2.1.st	GeneFeatureSet	[HuGene-2_1-st] Affymetrix Human Gene 2.1 ST Array [transcript (gene) version]	Homo sapiens	9606	53617	1452	100	6-Sep-13
